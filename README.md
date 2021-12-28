@@ -1,4 +1,4 @@
-# AWS_Service-_-
+# AWS_Service_To_Slack
 
 실행 후 화면
 
